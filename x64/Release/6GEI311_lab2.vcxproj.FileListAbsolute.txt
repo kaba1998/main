@@ -1,0 +1,2 @@
+C:\Users\Aicha\Desktop\Lab2\Lab2\x64\Release\Lab2.pyd
+C:\Users\Aicha\Desktop\Lab3\x64\Release\Lab3.pyd
